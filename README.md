@@ -40,6 +40,7 @@ network (tailnet), suitable for a personal use, or a small open-source
 organisation.
 
 ## Supporting Headscale
+## by zeeshan ahmad
 
 If you like `headscale` and find it useful, there is a sponsorship and donation
 buttons available in the repo.
